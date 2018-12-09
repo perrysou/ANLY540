@@ -12,3 +12,5 @@ PPT should contain snapshots of your output, make excel spreadsheets, tables, an
 5. Word2vec(2013) model had hard time associating dreamline with correct subject,(out dated) then in that case use fasttext(2017).(search https://fasttext.cc/docs/en/english-vectors.html)
 6. Or use genism library, you can try different languages in fasttext
 7. Category – subcategory - taxonomy topic(keyword) – calculate score – assignment 11 Qs.
+
+![](requirements.png)
