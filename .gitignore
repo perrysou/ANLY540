@@ -1,5 +1,8 @@
+.DS_store
 *.bin
 *.gz
+*.vec
+.ipynb_checkpoints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
